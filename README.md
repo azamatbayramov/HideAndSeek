@@ -1,3 +1,3 @@
 # HideAndSeek
 
-Web application for conducting Hide And Seek games.
+Web application for conducting different games in real world.
